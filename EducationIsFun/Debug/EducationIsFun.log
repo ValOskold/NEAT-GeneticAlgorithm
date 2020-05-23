@@ -1,0 +1,8 @@
+﻿  GanNet.cpp
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(136): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EducationIsFun.vcxproj -> C:\GameDev\PVisual Studio Projects\TeachingMedun\EducationIsFun\Debug\EducationIsFun.exe
