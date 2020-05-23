@@ -1,0 +1,12 @@
+﻿  GanNet.cpp
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(91): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(168): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\gamedev\pvisual studio projects\teachingmedun\educationisfun\educationisfun\gannet.cpp(217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EducationIsFun.vcxproj -> C:\GameDev\PVisual Studio Projects\TeachingMedun\EducationIsFun\x64\Debug\EducationIsFun.exe
